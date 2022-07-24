@@ -1,0 +1,3 @@
+
+INSERT INTO BUYER (Buyer_ID, Phone_Number) VALUES (1,9876422);
+INSERT INTO BUYER (Buyer_ID, Phone_Number) VALUES (2,1234567);
